@@ -1,0 +1,1 @@
+This project looks at the basics of fraction brownian motions (fBM), the basic definitions and theory behind path signatures, and an application of path signatures to optimal stopping of american options with different driving fBMs.
